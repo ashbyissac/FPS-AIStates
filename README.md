@@ -1,2 +1,2 @@
 # FPS-AIStates
-An NPC AI State machine prototype project built using Unity3D. 
+An NPC AI State machine prototype built using Unity3D. 
